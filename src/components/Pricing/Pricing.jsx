@@ -4,6 +4,8 @@ import Heading from "./Heading";
 import PricingList from "./PricingList";
 import { LeftLine, RightLine } from "./design/Pricing";
 
+
+
 const Pricing = () => {
   return (
     <Section className="overflow-hidden" id="pricing">
